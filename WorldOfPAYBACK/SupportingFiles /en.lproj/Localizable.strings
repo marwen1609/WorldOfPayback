@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  WorldOfPAYBACK
+
+  Created by Marwen Jamel on 17.03.23.
+  
+*/
+
+"offline_Error" = "Unable to establish a connection. Please make sure you are connected to the internet.";
+"all_categories" = "All Categories";
+"total" = "Total";
+"category" = "Category";
+"loading" = "Loading...";
+"transactions" = "Transactions";
+"try_again" = "Try again";
+"transactions_emptyView" = "You have no transactions to show.";

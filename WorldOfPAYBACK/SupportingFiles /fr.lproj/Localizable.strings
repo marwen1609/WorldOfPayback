@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  WorldOfPAYBACK
+
+  Created by Marwen Jamel on 17.03.23.
+  
+*/
+
+"welcome" = "Bienvenue !";
+"offline_Error" = "Impossible d'établir une connexion. Assurez-vous d'être connecté à Internet.";

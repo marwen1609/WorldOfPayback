@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  WorldOfPAYBACK
+
+  Created by Marwen Jamel on 17.03.23.
+  
+*/
+
+"offline_Error" = "Keine Verbindung möglich. Bitte stellen Sie sicher, dass Sie mit dem Internet verbunden sind.";
+"all_categories" = "Alle Kategorien";
+"total" = "Gesamt";
+"category" = "Kategorie"; 
+"loading" = "Laden...";
+"transactions" = "Transaktionen";
+"try_again" = "Erneut versuchen";
+"transactions_emptyView" = "Es sind noch keine Transaktionen vorhanden.";
